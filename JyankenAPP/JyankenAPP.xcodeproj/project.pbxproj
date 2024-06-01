@@ -1,0 +1,389 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7F9BDC8A2C0ACA3200B3CDA4 /* win.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7F9BDC892C0ACA3200B3CDA4 /* win.mp3 */; };
+		7F9BDC8C2C0ACAC300B3CDA4 /* sword.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7F9BDC8B2C0ACAC300B3CDA4 /* sword.mp3 */; };
+		7F9BDC8E2C0ACBA800B3CDA4 /* backgroundSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7F9BDC8D2C0ACBA800B3CDA4 /* backgroundSound.mp3 */; };
+		7F9BDC912C0ACDFE00B3CDA4 /* lose.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7F9BDC902C0ACDFE00B3CDA4 /* lose.mp3 */; };
+		7F9BDC932C0ACE1100B3CDA4 /* orenokachi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7F9BDC922C0ACE1100B3CDA4 /* orenokachi.mp3 */; };
+		7F9BDC952C0ADB9B00B3CDA4 /* ha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7F9BDC942C0ADB9B00B3CDA4 /* ha.mp3 */; };
+		7F9BDC972C0ADC3F00B3CDA4 /* tsuyoina.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7F9BDC962C0ADC3F00B3CDA4 /* tsuyoina.mp3 */; };
+		7F9BDC992C0ADCAB00B3CDA4 /* sonoteido.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7F9BDC982C0ADCAB00B3CDA4 /* sonoteido.mp3 */; };
+		7FF89EB82C097B620055E663 /* JyankenAPPApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF89EB72C097B620055E663 /* JyankenAPPApp.swift */; };
+		7FF89EBA2C097B620055E663 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF89EB92C097B620055E663 /* ContentView.swift */; };
+		7FF89EBC2C097B6A0055E663 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7FF89EBB2C097B6A0055E663 /* Assets.xcassets */; };
+		7FF89EBF2C097B6A0055E663 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7FF89EBE2C097B6A0055E663 /* Preview Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		7F9BDC892C0ACA3200B3CDA4 /* win.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = win.mp3; sourceTree = "<group>"; };
+		7F9BDC8B2C0ACAC300B3CDA4 /* sword.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sword.mp3; sourceTree = "<group>"; };
+		7F9BDC8D2C0ACBA800B3CDA4 /* backgroundSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = backgroundSound.mp3; sourceTree = "<group>"; };
+		7F9BDC902C0ACDFE00B3CDA4 /* lose.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lose.mp3; sourceTree = "<group>"; };
+		7F9BDC922C0ACE1100B3CDA4 /* orenokachi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = orenokachi.mp3; sourceTree = "<group>"; };
+		7F9BDC942C0ADB9B00B3CDA4 /* ha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ha.mp3; sourceTree = "<group>"; };
+		7F9BDC962C0ADC3F00B3CDA4 /* tsuyoina.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tsuyoina.mp3; sourceTree = "<group>"; };
+		7F9BDC982C0ADCAB00B3CDA4 /* sonoteido.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sonoteido.mp3; sourceTree = "<group>"; };
+		7FF89EB42C097B620055E663 /* JyankenAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JyankenAPP.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7FF89EB72C097B620055E663 /* JyankenAPPApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JyankenAPPApp.swift; sourceTree = "<group>"; };
+		7FF89EB92C097B620055E663 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		7FF89EBB2C097B6A0055E663 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7FF89EBE2C097B6A0055E663 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7FF89EB12C097B620055E663 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7F9BDC8F2C0ACBC500B3CDA4 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				7F9BDC942C0ADB9B00B3CDA4 /* ha.mp3 */,
+				7F9BDC902C0ACDFE00B3CDA4 /* lose.mp3 */,
+				7F9BDC892C0ACA3200B3CDA4 /* win.mp3 */,
+				7F9BDC8B2C0ACAC300B3CDA4 /* sword.mp3 */,
+				7F9BDC922C0ACE1100B3CDA4 /* orenokachi.mp3 */,
+				7F9BDC962C0ADC3F00B3CDA4 /* tsuyoina.mp3 */,
+				7F9BDC982C0ADCAB00B3CDA4 /* sonoteido.mp3 */,
+				7F9BDC8D2C0ACBA800B3CDA4 /* backgroundSound.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		7FF89EAB2C097B620055E663 = {
+			isa = PBXGroup;
+			children = (
+				7FF89EB62C097B620055E663 /* JyankenAPP */,
+				7FF89EB52C097B620055E663 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7FF89EB52C097B620055E663 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7FF89EB42C097B620055E663 /* JyankenAPP.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7FF89EB62C097B620055E663 /* JyankenAPP */ = {
+			isa = PBXGroup;
+			children = (
+				7FF89EB72C097B620055E663 /* JyankenAPPApp.swift */,
+				7FF89EB92C097B620055E663 /* ContentView.swift */,
+				7FF89EBB2C097B6A0055E663 /* Assets.xcassets */,
+				7F9BDC8F2C0ACBC500B3CDA4 /* Sounds */,
+				7FF89EBD2C097B6A0055E663 /* Preview Content */,
+			);
+			path = JyankenAPP;
+			sourceTree = "<group>";
+		};
+		7FF89EBD2C097B6A0055E663 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				7FF89EBE2C097B6A0055E663 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7FF89EB32C097B620055E663 /* JyankenAPP */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7FF89EC22C097B6A0055E663 /* Build configuration list for PBXNativeTarget "JyankenAPP" */;
+			buildPhases = (
+				7FF89EB02C097B620055E663 /* Sources */,
+				7FF89EB12C097B620055E663 /* Frameworks */,
+				7FF89EB22C097B620055E663 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JyankenAPP;
+			productName = JyankenAPP;
+			productReference = 7FF89EB42C097B620055E663 /* JyankenAPP.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7FF89EAC2C097B620055E663 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1530;
+				LastUpgradeCheck = 1530;
+				TargetAttributes = {
+					7FF89EB32C097B620055E663 = {
+						CreatedOnToolsVersion = 15.3;
+					};
+				};
+			};
+			buildConfigurationList = 7FF89EAF2C097B620055E663 /* Build configuration list for PBXProject "JyankenAPP" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7FF89EAB2C097B620055E663;
+			productRefGroup = 7FF89EB52C097B620055E663 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7FF89EB32C097B620055E663 /* JyankenAPP */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7FF89EB22C097B620055E663 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7FF89EBF2C097B6A0055E663 /* Preview Assets.xcassets in Resources */,
+				7F9BDC8C2C0ACAC300B3CDA4 /* sword.mp3 in Resources */,
+				7F9BDC992C0ADCAB00B3CDA4 /* sonoteido.mp3 in Resources */,
+				7FF89EBC2C097B6A0055E663 /* Assets.xcassets in Resources */,
+				7F9BDC952C0ADB9B00B3CDA4 /* ha.mp3 in Resources */,
+				7F9BDC912C0ACDFE00B3CDA4 /* lose.mp3 in Resources */,
+				7F9BDC972C0ADC3F00B3CDA4 /* tsuyoina.mp3 in Resources */,
+				7F9BDC932C0ACE1100B3CDA4 /* orenokachi.mp3 in Resources */,
+				7F9BDC8E2C0ACBA800B3CDA4 /* backgroundSound.mp3 in Resources */,
+				7F9BDC8A2C0ACA3200B3CDA4 /* win.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7FF89EB02C097B620055E663 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7FF89EBA2C097B620055E663 /* ContentView.swift in Sources */,
+				7FF89EB82C097B620055E663 /* JyankenAPPApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		7FF89EC02C097B6A0055E663 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		7FF89EC12C097B6A0055E663 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7FF89EC32C097B6A0055E663 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"JyankenAPP/Preview Content\"";
+				DEVELOPMENT_TEAM = GNG4VLAQ7U;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.ac.jec.cm0138.JyankenAPP;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7FF89EC42C097B6A0055E663 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"JyankenAPP/Preview Content\"";
+				DEVELOPMENT_TEAM = GNG4VLAQ7U;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.ac.jec.cm0138.JyankenAPP;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7FF89EAF2C097B620055E663 /* Build configuration list for PBXProject "JyankenAPP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7FF89EC02C097B6A0055E663 /* Debug */,
+				7FF89EC12C097B6A0055E663 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7FF89EC22C097B6A0055E663 /* Build configuration list for PBXNativeTarget "JyankenAPP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7FF89EC32C097B6A0055E663 /* Debug */,
+				7FF89EC42C097B6A0055E663 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7FF89EAC2C097B620055E663 /* Project object */;
+}
